@@ -1,0 +1,17 @@
+.Typewriter {
+    -webkit-text-fill-color: transparent;
+    background: var(--color-button);
+    -webkit-background-clip: text;
+    color: var(--white);
+    font-size: 2rem;
+    font-weight: 800 !important;
+    margin-bottom: 20px !important;
+}
+.Intro-name h1{
+font-size: 4rem !important;
+}
+.Typewriter__wrapper{
+    font-size: 2rem;
+}
+
+
